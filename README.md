@@ -1,9 +1,5 @@
 # Recreación de Creepypasta en Placa NodeMCU con Servos y LEDs RGB
 
-## Descripción
-
-Bienvenido a nuestro emocionante proyecto, donde hemos llevado la experiencia de una historia de creepypasta a la vida real utilizando una placa NodeMCU. Nuestro equipo de estudiantes de la ETEC se ha unido para crear una versión física de una narrativa de miedo favorita, y lo hemos logrado con una combinación de tecnología y creatividad.
-
 ### Características Destacadas
 
 - **Placa NodeMCU:** Utilizamos una placa NodeMCU como la base de nuestro proyecto. Esta placa es altamente versátil y nos permitió una amplia gama de posibilidades de control y conectividad.
